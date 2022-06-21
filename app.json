@@ -1,0 +1,18 @@
+{
+    "name": "HX",
+    "description": "Powered By Misaka-blog",
+    "keywords": [],
+    "env": {
+        "TYPE": {
+            "description": "协议，小写的vmess或vless",
+            "value": "vless"
+        },
+        "UUID": {
+            "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
+            "value": ""
+        }
+    },
+    "website": "https://owo.misaka.rest",
+    "repository": "",
+    "stack": "container"
+}
